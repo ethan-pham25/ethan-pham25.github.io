@@ -2,7 +2,7 @@
 layout: page
 title: TARS
 description: UCI ZotBotics Level 3 project (autonomous animatronic).
-img: assets/img/tars.jpg
+img: assets/img/tars_cad.jpg
 importance: 4
 category: college
 ---
