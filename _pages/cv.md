@@ -10,4 +10,4 @@ toc:
   sidebar: left
 ---
 
-<iframe src="/assets/pdf/Ethan J. Pham Resume.pdf" width="100%" height="900px" style="border: none;"></iframe>
+<script>window.location.href = '/assets/pdf/Ethan J. Pham Resume.pdf';</script>

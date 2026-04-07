@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email: ejpham1@uci.edu</p>
     <p>University of California, Irvine</p>
     <p>Irvine, CA 92617</p>
 
