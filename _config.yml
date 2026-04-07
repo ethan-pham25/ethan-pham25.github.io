@@ -7,7 +7,7 @@ first_name: Ethan
 middle_name: J.
 last_name: Pham
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to connect with me on LinkedIn and reach out about project or job opportunities!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal portfolio. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -97,7 +97,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: false
@@ -203,6 +203,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news/announcement_*.md
+  - _pages/blog.md # Remove unnecessary pages
+  - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/people.md
+  - _posts/
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
