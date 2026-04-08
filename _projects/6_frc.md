@@ -8,20 +8,22 @@ category: High School
 ---
 
 Problem:    Develop **reliable** and **highly-automated** software to effectively control a high-scoring FRC robot for the 2025 season.   
+
 Solution:   Use WPILib C++ to implement per-subsystem **finite state machines** and **PID + FF** (feedforward) controllers for state 
             transitions. Leverage **inverse kinematics** for intuitive swerve drive control and **Kalman Filters** for updating odometry
             with vision pose estimates.  
+
 Results:    Placed 11th/35 and 9th/34 at our competitions, marking **team all-time best season ranks**. Improved software architecture
             for future teams.  
 
-Repository:  
+Repository:  [https://github.com/FIRSTTeam3189/Robot2025v2](URL)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/frc/reef.jpg" title="Practice scoring element" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img src="{{ '/assets/img/frc/l4_manual.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Manual L4 scoring">
+        <img src="{{ '/assets/img/frc/l4_manual.gif' | relative_url }}" loading="eager" class="img-fluid rounded z-depth-1" alt="Manual L4 scoring">
     </div>
 </div>
 <div class="caption">
@@ -32,10 +34,10 @@ Working on FRC software taught me the importance of prototyping and testing. The
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frc/pathplanner.gif" title="Pathplanner auto routine" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/frc/pathplanner.gif' | relative_url }}" loading="eager" class="img-fluid rounded z-depth-1" alt="Pathplanner auto routine">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frc/2_l4_auto.gif" title="2x autonomous L4 scoring" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/frc/2_l4_auto.gif' | relative_url }}" loading="eager" class="img-fluid rounded z-depth-1" alt="2x autonomous L4 scoring">
     </div>
 </div>
 <div class="caption">
@@ -47,10 +49,10 @@ Additionally, I worked on using the **Apriltags** (as pictured above) to calcula
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frc/systems_check.gif" title="Competition systems check" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/frc/systems_check.gif' | relative_url }}" loading="eager" class="img-fluid rounded z-depth-1" alt="Competition systems check">
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frc/algae_fling.gif" title="Algae (ball) throwing" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/frc/algae_fling.gif' | relative_url }}" loading="eager" class="img-fluid rounded z-depth-1" alt="Algae (ball) throwing">
     </div>
 </div>
 <div class="caption">

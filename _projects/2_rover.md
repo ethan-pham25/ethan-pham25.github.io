@@ -8,7 +8,9 @@ category: College
 ---
 
 Problem:    Problem  
+
 Solution:   Solution  
+
 Results:    Results  
 
 Repository: [https://github.com/UCI-Legacy-Robotics/URC-2026](URL)

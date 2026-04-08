@@ -7,10 +7,12 @@ importance: 1
 category: College
 ---
 
-(Credit for thumbnail: [https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM2%29.html](URL))  
+Thumbnail credit: [https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM2%29.html](URL)  
 
 Problem:    Problem  
+
 Solution:   Solution  
+
 Results:    Results  
 
 <div class="row">
