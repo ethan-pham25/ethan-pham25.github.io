@@ -21,7 +21,7 @@ Repository:
         {% include figure.liquid loading="eager" path="assets/img/frc/reef.jpg" title="Practice scoring element" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/frc/l4_manual.gif" title="Manual L4 scoring" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/frc/l4_manual.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Manual L4 scoring">
     </div>
 </div>
 <div class="caption">
