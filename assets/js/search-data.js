@@ -72,7 +72,7 @@ ninja.data = [{
               window.location.href = "/projects/4_tars/";
             },},{id: "projects-rocket",
           title: 'Rocket',
-          description: "L1 Solid Rocket for TRA certification.",
+          description: "L1 solid rocket for TRA certification.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_rocket/";
             },},{id: "projects-mr-krabs",
