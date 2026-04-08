@@ -4,14 +4,14 @@ title: Satellite Testing
 description: Testing and automation projects for internship at Pumpkin Space Systems.
 img: assets/img/bm2.jpg
 importance: 1
-category: college
+category: College
 ---
 
-(Credit for thumbnail: [https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM2%29.html](URL))
+(Credit for thumbnail: [https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM2%29.html](URL))  
 
-Problem:    Problem
-Solution:   Solution
-Results:    Results
+Problem:    Problem  
+Solution:   Solution  
+Results:    Results  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

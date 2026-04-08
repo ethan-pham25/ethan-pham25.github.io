@@ -2,20 +2,20 @@
 layout: page
 title: TARS
 description: UCI ZotBotics Level 3 project (autonomous animatronic).
-img: assets/img/tars_cad.jpg
+img: assets/img/tars_cad.png
 importance: 4
-category: college
+category: College
 ---
 
-Problem:    Problem
-Solution:   Solution
-Results:    Results
+Problem:    Problem  
+Solution:   Solution  
+Results:    Results  
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tars/full_cad.png" title="TARS master CAD" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tars/fall_design_review.jpg" title="Fall Design Review" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

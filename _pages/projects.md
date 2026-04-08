@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Some of the cool projects I've worked on.
 nav: true
 nav_order: 1
-display_categories: [college, high school]
+display_categories: [College, High School]
 horizontal: false
 ---
 

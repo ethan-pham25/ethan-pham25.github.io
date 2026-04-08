@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resume/
-title: resume
+title: Resume
 nav: true
 nav_order: 2
 cv_pdf: /assets/pdf/Ethan J. Pham Resume.pdf # you can also use external links here

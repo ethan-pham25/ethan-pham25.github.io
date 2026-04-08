@@ -4,12 +4,12 @@ title: Rocket
 description: L1 Solid Rocket for TRA certification.
 img: assets/img/uncropped_rocket.jpg
 importance: 5
-category: college
+category: College
 ---
 
-Problem:    Problem
-Solution:   Solution
-Results:    Results
+Problem:    Problem  
+Solution:   Solution  
+Results:    Results  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,7 +40,7 @@ Text goes here
 Text goes here
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rocket/final.jpg" title="Final rocket" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

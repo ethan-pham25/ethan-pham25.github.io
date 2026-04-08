@@ -4,17 +4,17 @@ title: Mr. Krabs
 description: FRC Team 3189 Circuit Breakers' 2025 Robot
 img: assets/img/frc_robot.jpg
 importance: 1
-category: high school
+category: High School
 ---
 
-Problem:    Develop **reliable** and **highly-automated** software to effectively control a high-scoring FRC robot for the 2025 season. 
+Problem:    Develop **reliable** and **highly-automated** software to effectively control a high-scoring FRC robot for the 2025 season.   
 Solution:   Use WPILib C++ to implement per-subsystem **finite state machines** and **PID + FF** (feedforward) controllers for state 
             transitions. Leverage **inverse kinematics** for intuitive swerve drive control and **Kalman Filters** for updating odometry
-            with vision pose estimates.
+            with vision pose estimates.  
 Results:    Placed 11th/35 and 9th/34 at our competitions, marking **team all-time best season ranks**. Improved software architecture
-            for future teams.
+            for future teams.  
 
-Repository: 
+Repository:  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,16 +40,16 @@ Working on FRC software taught me the importance of prototyping and testing. The
 </div>
 <div class="caption">
     On the left, an autonomous routine planned in WPILib Pathplanner. On the right, that autonomous routine being successfully executed
-    in competition. Note the position correction over time, as seen by sudden, faster movements when the robot vision spots an Apriltag.
+    in competition (our robot left).
 </div>
 
 Additionally, I worked on using the **Apriltags** (as pictured above) to calculate camera offsets and fuse the estimated position from the vision system with the wheel odometry + IMU, using a Kalman Filter. This enables the robot to score fully autonomously when combined with autonomous pathplanning, given the target to score on.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/frc/systems_check.gif" title="Competition systems check" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/frc/algae_fling.gif" title="Algae (ball) throwing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
