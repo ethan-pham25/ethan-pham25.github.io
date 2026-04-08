@@ -22,9 +22,9 @@ Results:    Results
 
 Text goes here
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/thumbot/bt_connection.gif" title="BT connection test" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/thumbot/bt_connection.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="BT connection test">
     </div>
 </div>
 <div class="caption">
@@ -33,9 +33,9 @@ Text goes here
 
 Text goes here
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/thumbot/game.gif" title="SomatoCircleJump game" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img src="{{ '/assets/img/thumbot/game.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="SomatoCircleJump game">
     </div>
 </div>
 <div class="caption">

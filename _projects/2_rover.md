@@ -13,8 +13,8 @@ Results:    Results
 
 Repository: [https://github.com/UCI-Legacy-Robotics/URC-2026](URL)
 
-<div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rover/arm_control_diagram.jpg" title="Arm control block diagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -42,7 +42,7 @@ Text goes here
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/rover/arm_test.gif" title="Arm joint test" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm   mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/rover/driving.gif" title="Rover drive test" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

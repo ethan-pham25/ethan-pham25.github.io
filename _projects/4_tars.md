@@ -33,7 +33,7 @@ Text goes here
         {% include figure.liquid loading="eager" path="assets/img/tars/subarm.jpg" title="Full subarm assembly" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tars/subarm_test.gif" title="Subarm test" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/tars/subarm_test.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Subarm test">
     </div>
 </div>
 <div class="caption">
