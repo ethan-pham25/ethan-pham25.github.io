@@ -29,7 +29,7 @@ Repository: [https://github.com/UCI-Legacy-Robotics/URC-2026](https://github.com
         {% include figure.liquid loading="eager" path="assets/img/rover/arm_urdf.png" title="Arm URDF" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rover/move_it_test_2x.gif" title="Arm control simulation (2X speed)" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/rover/move_it_test_2x.gif' | relative_url }}" loading="eager" class="img-fluid rounded z-depth-1" alt="Arm control simulation (2x speed)">
     </div>
 </div>
 <div class="caption">
