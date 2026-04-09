@@ -4,7 +4,7 @@ title: Satellite Testing
 description: Testing and automation projects for internship at Pumpkin Space Systems.
 img: assets/img/bm2.jpg
 importance: 1
-category: College
+category: College/Professional
 ---
 
 Thumbnail credit: [Pumpkin Space Systems BM2](https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM2%29.html)  
@@ -17,7 +17,7 @@ Results:    Performed successful automatic charge/discharge cycle on BM2. Deploy
 
 *Also, my work played a very, very small part in this, but it's too cool not to share: the BM2 was used in [NASA's **Artemis II** in Pumpkin's first manned spaceflight mission!](https://www.pumpkinspace.com/news/pumpkins-first-manned-spaceflight-mission)*  
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bm2.jpg" title="Pumpkin BM2" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -29,10 +29,10 @@ Results:    Performed successful automatic charge/discharge cycle on BM2. Deploy
 Double-checking documentation for hours---and literally *watching a battery charge*, at some points---was surprisingly rewarding. I learned the fundamentals of how **CubeSats** work, methodical troubleshooting, and how to work with **SCPI** commands.  
 
 <div class="row">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/pumpkin/keysight_device.JPEG" title="Keysight switching instrument" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/pumpkin/keysight_output.jpg" title="Keysight state output" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

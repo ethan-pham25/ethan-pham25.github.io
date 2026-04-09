@@ -11,6 +11,15 @@
   opacity: 0.95;
 }
 
+// Open dropdown on hover on desktop
+@media (min-width: 992px) {
+    .navbar .nav-item.dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0; 
+        transition: all 0.3s ease; /* Optional: smooth fade in */
+    }
+}
+
 .navbar .dropdown-menu,
 .btn-group.dropdown .dropdown-menu {
   background-color: var(--global-bg-color);

@@ -4,7 +4,7 @@ title: Rocket
 description: L1 solid rocket for TRA certification.
 img: assets/img/uncropped_rocket.jpg
 importance: 5
-category: College
+category: College/Professional
 ---
 
 Problem:    Build, paint, and simulate a rocket at home for an L1 certification in **under a week.**  

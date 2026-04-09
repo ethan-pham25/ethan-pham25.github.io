@@ -4,7 +4,7 @@ title: Rover
 description: UCI Legacy Robotics Mars-like rover for URC/CIRC competitions.
 img: assets/img/rover.jpg
 importance: 2
-category: College
+category: College/Professional
 ---
 
 Problem:    Develop realtime teleoperated and autonomous control of a 6-DOF robotic arm for Legacy Robotics, competing in the URC/CIRC competitions.  

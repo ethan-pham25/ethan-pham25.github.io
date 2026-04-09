@@ -4,7 +4,7 @@ title: TARS
 description: UCI ZotBotics Level 3 project (autonomous animatronic).
 img: assets/img/tars_cad.png
 importance: 4
-category: College
+category: College/Professional
 ---
 
 Problem:    Design, implement, and test an **autonomous animatronic** from popular science fiction. 

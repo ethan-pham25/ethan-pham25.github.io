@@ -4,7 +4,7 @@ title: ThumBOT
 description: UCI Biorobotics Lab stroke rehabilitation robot.
 img: assets/img/biorobotics_favicon.jpg
 importance: 3
-category: College
+category: College/Professional
 ---
 
 Thumbnail credit: [UCI Biorobotics Lab](https://faculty.sites.uci.edu/bioroboticslab/)  
