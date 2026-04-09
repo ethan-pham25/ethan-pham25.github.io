@@ -7,9 +7,9 @@ importance: 3
 category: College
 ---
 
-Thumbnail credit: [https://faculty.sites.uci.edu/bioroboticslab/](URL)  
+Thumbnail credit: [UCI Biorobotics Lab](https://faculty.sites.uci.edu/bioroboticslab/)  
 
-Problem:    Develop an app to control and augment a **cheap, portable stroke rehabilitation robot** for the thumb. Include engaging **training games** to improve rehabilitation rates.  
+Problem:    Develop an app to control and augment ThumBOT, a **cheap, portable stroke rehabilitation robot** for the thumb. Include engaging **training games** to improve rehabilitation rates.  
 
 Solution:   Implement **UART** and **Bluetooth Low Energy** (BLE) protocols for communication between phone, Teensy MCU, and ESP-32. Utilize the **React Native** framework and embedded **Arduino/C++ code**, with a **SQLite** backend for storage.  
 
@@ -24,7 +24,9 @@ Results:    Delivered working game and application with user profiles, training/
     ThumBOT App code architecture.
 </div>
 
-This project was my first serious foray into app development, and I enjoyed learning all the different layers that makes an app efficient and scalable. In particular, 
+This project was my first serious foray into app development, and I enjoyed learning all the different layers that makes an app efficient and scalable. I chose **React Native** to prevent code duplication for Android and IOS, and **BLE** for easy, fast connection and much lower power consumption than Wi-Fi.
+
+In particular, I think the **repository pattern** layer to simplify storage from the game into a local database will be useful to apply in the future.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -32,10 +34,8 @@ This project was my first serious foray into app development, and I enjoyed lear
     </div>
 </div>
 <div class="caption">
-    Caption goes here
+    Bluetooth connection test between mobile phone -> ESP-32 -> Teensy robot MCU. Full ThumBOT not pictured.
 </div>
-
-Text goes here
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -43,7 +43,7 @@ Text goes here
     </div>
 </div>
 <div class="caption">
-    Caption goes here
+    SomatoCircleJump rehabilitation game. Includes optional adaptive difficulty algorithm.
 </div>
 
-Test goes here
+The idea of this game is that the ball maps to the position of the thumb in the actual robot *that they cannot see*. The user clicks a button on the robot (or taps on the screen if the phone is connected) to "fire the ball," and receives a score based on accuracy.

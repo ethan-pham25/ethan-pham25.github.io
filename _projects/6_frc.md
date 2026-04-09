@@ -16,7 +16,7 @@ Solution:   Use WPILib C++ to implement per-subsystem **finite state machines** 
 Results:    Placed 11th/35 and 9th/34 at our competitions, marking **team all-time best season ranks**. Improved software architecture
             for future teams.  
 
-Repository:  [https://github.com/FIRSTTeam3189/Robot2025v2](URL)
+Repository:  [https://github.com/FIRSTTeam3189/Robot2025v2](https://github.com/FIRSTTeam3189/Robot2025v2)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -27,7 +27,7 @@ Repository:  [https://github.com/FIRSTTeam3189/Robot2025v2](URL)
     </div>
 </div>
 <div class="caption">
-    On the left, a practice scoring element for the 2025 Reefscape game. Note the QR code-like Apriltag. On the right, a test of manual scoring on the highest level - for which only two buttons is required.
+    On the left, a practice scoring element for the 2025 Reefscape game. Note the QR code-like Apriltag. On the right, a test of manual scoring on the highest level - for which only two buttons are required.
 </div>
 
 Working on FRC software taught me the importance of prototyping and testing. The initial scoring controls were clunky, so I grouped together subsystem state transitions into just two buttons for manual control at any scoring level - one for intake, and one for each scoring level.
