@@ -38,7 +38,7 @@ In particular, I think the **repository pattern** layer to simplify storage from
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         <img src="{{ '/assets/img/thumbot/game.gif' | relative_url }}" loading="eager" class="img-fluid rounded z-depth-1" alt="SomatoCircleJump game">
     </div>
 </div>

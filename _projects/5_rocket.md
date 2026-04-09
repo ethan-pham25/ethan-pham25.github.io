@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Rocket
-description: L1 solid rocket for TRA certification.
+description: L1 solid rocket for high power rocketry (HPR) certification.
 img: assets/img/uncropped_rocket.jpg
 importance: 5
 category: College/Professional
 ---
 
-Problem:    Build, paint, and simulate a rocket at home for an L1 certification in **under a week.**  
+Problem:    Build, paint, and simulate a **high power rocket** at home for an L1 certification in **under a week.**  
 
-Solution:   Utilize a **LOC IV** kit due to time constraints; upgrade to **Nomex chute protector** for reliability.
+Solution:   Utilize a **LOC IV** kit due to time constraints; upgrade with **Nomex chute protector** for reliability.
   
 Results:    Completed rocket, learned rocketry fundamentals like simulating **center of pressure**, assembling with **2 part epoxy**, and understanding components including the **airframe**, **solid motor**, and **centering rings**. Launch date TBD due to continuous launch range closures on previous attempts.  
 
