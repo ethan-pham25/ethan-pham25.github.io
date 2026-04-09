@@ -24,7 +24,7 @@ Results:    Delivered working game and application with user profiles, training/
     ThumBOT App code architecture.
 </div>
 
-This project was my first serious foray into app development, and I enjoyed learning all the different layers that makes an app efficient and scalable. I chose **React Native** to prevent code duplication for Android and IOS, and **BLE** for easy, fast connection and much lower power consumption than Wi-Fi.
+This project was my first serious foray into **full stack** app development, and I enjoyed learning all the different layers that makes an app efficient and scalable. I chose **React Native** to prevent code duplication for Android and IOS, and **BLE** for easy, fast connection and much lower power consumption than Wi-Fi.
 
 In particular, I think the **repository pattern** layer to simplify storage from the game into a local database will be useful to apply in the future.
 

@@ -7,7 +7,7 @@ importance: 2
 category: College/Professional
 ---
 
-Problem:    Develop realtime teleoperated and autonomous control of a 6-DOF robotic arm for Legacy Robotics, competing in the URC/CIRC competitions.  
+Problem:    Develop realtime teleoperated and autonomous control of a **6-DOF robotic arm** for Legacy Robotics, competing in the URC/CIRC competitions.  
 
 Solution:   Implement **ROS2** Control **custom hardware interface**, MoveIt, and MoveIt Servo in **C++** and Python. Allow both Cartesian (XYZ) and joint-based velocity control.  
 

@@ -13,8 +13,7 @@ Solution:   Use WPILib C++ to implement per-subsystem **finite state machines** 
             transitions. Leverage **inverse kinematics** for intuitive swerve drive control and **Kalman Filters** for updating odometry
             with vision pose estimates.  
 
-Results:    Placed 11th/35 and 9th/34 at our competitions, marking **team all-time best season ranks**. Improved software architecture
-            for future teams.  
+Results:    Placed 11th/35 and 9th/34 at our competitions, marking **team all-time best season ranks**. Improved software architecture for future teams.  
 
 Repository:  [https://github.com/FIRSTTeam3189/Robot2025v2](https://github.com/FIRSTTeam3189/Robot2025v2)
 

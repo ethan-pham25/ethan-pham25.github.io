@@ -26,7 +26,7 @@ Results:    Performed successful automatic charge/discharge cycle on BM2. Deploy
     Intelligent Salltelite Lithium Battery Module - BM2. Image credit: <a href="https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM2%29.html">Pumpkin Space Systems BM2</a>
 </div>
 
-Double-checking documentation for hours---and literally *watching a battery charge*, at some points---was surprisingly rewarding. I learned the fundamentals of how **CubeSats** work, methodical troubleshooting, and how to work with **SCPI** commands.  
+Double-checking datasheets and documentation for hours---and literally *watching a battery charge*, at some points---was surprisingly rewarding. I learned the fundamentals of how **CubeSats** work, methodical troubleshooting, and how to work with **SCPI** commands.  
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
