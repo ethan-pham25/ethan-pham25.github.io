@@ -197,3 +197,24 @@
     color: var(--global-hover-color);
   }
 }
+
+/* Always show navbar menu on mobile */
+@media (max-width: 575px) {
+  .navbar-toggler {
+    display: none;
+  }
+
+  .navbar-collapse {
+    display: flex !important;
+  }
+
+  .navbar-nav {
+    flex-direction: row;
+    gap: 0.5rem;
+  }
+
+  .navbar-nav .nav-link {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.9rem;
+  }
+}
