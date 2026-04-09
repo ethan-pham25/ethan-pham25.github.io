@@ -70,7 +70,7 @@
                 <li class="nav-item dropdown {% if page.title == p.title or has_active_child %}active{% endif %}">
                   <a
                     class="nav-link dropdown-toggle"
-                    href="#"
+                    href="{% if p.permalink contains '://' %}{{ p.permalink }}{% else %}{{ p.permalink | relative_url }}{% endif %}"
                     id="navbarDropdown"
                     role="button"
                     aria-haspopup="true"
