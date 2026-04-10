@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a passionate and dedicated Computer Science and Engineering student at the University of California, Irvine. My interests include robotics, aerospace, and any other cool software projects with some mechanical components and electronics mixed in. I enjoy writing both low-level embedded systems code, as well as controls and automation.
+I'm a passionate and dedicated Computer Science and Engineering student at the University of California, Irvine. My interests include robotics, aerospace, and any other cool software projects with mechanical components and electronics mixed in. I enjoy writing code for controls, automation, and embedded systems.
 
 Please reach out if you have any questions about my projects, or just want to talk about cool engineering ideas!
