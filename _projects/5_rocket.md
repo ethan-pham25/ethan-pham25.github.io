@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rocket
+title: Nebula
 description: L1 solid rocket for high power rocketry (HPR) certification.
 img: assets/img/uncropped_rocket.jpg
 importance: 5
@@ -40,6 +40,17 @@ During the assembly process, I learned how to use 2 part epoxy like JBWeld, tie 
 </div>
 
 Painting the rocket took patience and a lot of trial and error. I wanted to not only make a rocket that looked beautiful, but also had a smooth and even paint coat for the best performance.  
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rocket/openrocket_sim.jpg" title="OpenRocket sim" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Simulation of Nebula in OpenRocket.
+</div>
+
+After finally getting the paint right, I re-weighed and re-simmed the rocket to accoutn for the non-negligible mass of the paint. This enabled me to accurately confirm the **center of pressure** and **stability** of the rocket.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
