@@ -50,7 +50,7 @@ Painting the rocket took patience and a lot of trial and error. I wanted to not 
     Simulation of Nebula in OpenRocket.
 </div>
 
-After finally getting the paint right, I re-weighed and re-simmed the rocket to accoutn for the non-negligible mass of the paint. This enabled me to accurately confirm the **center of pressure** and **stability** of the rocket.
+After finally getting the paint right, I re-weighed and re-simmed the rocket to account for the non-negligible mass of the paint. This enabled me to accurately confirm the **center of pressure** and **stability** of the rocket.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
