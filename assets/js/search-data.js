@@ -78,8 +78,8 @@ ninja.data = [{
           description: "UCI ZotBotics Level 3 project (autonomous animatronic).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_tars/";
-            },},{id: "projects-rocket",
-          title: 'Rocket',
+            },},{id: "projects-nebula",
+          title: 'Nebula',
           description: "L1 solid rocket for high power rocketry (HPR) certification.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_rocket/";
